@@ -1,0 +1,19 @@
+{
+  "Lists": [
+    {
+      "id": 1,
+      "name": "Integrations",
+      "terms": ["abc", "def", "ghi", "jkl", "mno"]
+    },
+    {
+      "id": 2,
+      "name": "HRDS",
+      "terms": ["pqr", "stu", "vwx", "yz"]
+    },
+    {
+      "id": 3,
+      "name": "test",
+      "terms": ["gyh,kse,lox,grt"]
+    }
+  ]
+}
